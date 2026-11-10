@@ -1,0 +1,6 @@
+{
+  "name": "CoinSniper AI",
+  "description": "AI-powered cryptocurrency trading bot that analyzes real-time market trends, penny coins, and order books to scalp micro-cents and capture coin momentum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
